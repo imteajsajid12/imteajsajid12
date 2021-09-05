@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Fashol.com Ltd.**
 
-- 🌱 I’m currently learning **Vue js**
+- 🌱 I’m currently learning **Vue js**, **Laravel**
 
 - 👨‍💻 All of my projects are available here
 
