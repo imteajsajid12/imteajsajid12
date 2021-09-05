@@ -18,7 +18,7 @@
 ## 🚀 Languages and Tools:
 
 <p align="left">
-<a href="https://laravel.com" target="_blank"> <img src="https://https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="postman" width="45" height="45"/> </a> 
+<a href="https://laravel.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="45" height="45"/> </a> 
     <a href="https://vuejs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/vue-js.png"/> </a>
      <a href="https://Php.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/php.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
