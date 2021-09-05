@@ -42,7 +42,7 @@
 
 <p align="center">
     <a href="https://github.com/imteajsajid12">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rayhan Al Shorif's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=imteajsajid12&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Imteaj Hossain's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=imteajsajid12&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
