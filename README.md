@@ -46,7 +46,7 @@
 </p>
 
 ## 📊 My Github Stats
-![Sumon's github stats](https://github-readme-stats.vercel.app/api?username=sumonmselim&count_private=true)
+![Imteaj's github stats](https://github-readme-stats.vercel.app/api?username=imteajsajid12&count_private=true)
 
 
 
