@@ -117,16 +117,16 @@ Motivated **web developer** with 2+ years of hands-on experience across frontend
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=imteajsajid12&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=4A00E0&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imteajsajid12&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2&text_color=c9d1d9" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=imteajsajid12&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=4A00E0&text_color=c9d1d9&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imteajsajid12&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2&text_color=c9d1d9" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=imteajsajid12&theme=radical&hide_border=true&background=0D1117&ring=8E2DE2&fire=4A00E0" />
+<img height="180" src="https://streak-stats.demolab.com/?user=imteajsajid12&theme=radical&hide_border=true&background=0D1117&ring=8E2DE2&fire=4A00E0" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=imteajsajid12&theme=radical&no-frame=true&margin-w=10&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=imteajsajid12&theme=radical&no-frame=true&margin-w=10&column=6" />
 
 </div>
 
@@ -135,9 +135,9 @@ Motivated **web developer** with 2+ years of hands-on experience across frontend
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/imteajsajid12/imteajsajid12/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/imteajsajid12/imteajsajid12/output/github-contribution-grid-snake-dark.svg?raw=true" width="100%" alt="Snake animation"/>
 
-<sub>⚙️ Snake animation auto-generates once you add the <code>generate-snake.yml</code> GitHub Action below to this repo</sub>
+<sub>⚙️ Snake animation auto-generates daily via GitHub Actions workflow</sub>
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
