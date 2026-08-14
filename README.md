@@ -117,16 +117,28 @@ Motivated **web developer** with 2+ years of hands-on experience across frontend
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=imteajsajid12&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=4A00E0&text_color=c9d1d9&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imteajsajid12&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2&text_color=c9d1d9" />
+<!-- GitHub Stats using cached endpoint for reliability -->
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=imteajsajid12&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=4A00E0&text_color=c9d1d9&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imteajsajid12&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2&text_color=c9d1d9&cache_seconds=86400" alt="Top Languages" />
 
 <br/>
 
-<img height="180" src="https://streak-stats.demolab.com/?user=imteajsajid12&theme=radical&hide_border=true&background=0D1117&ring=8E2DE2&fire=4A00E0" />
+<!-- Streak Stats (most reliable service) -->
+<img height="180" src="https://streak-stats.demolab.com?user=imteajsajid12&theme=radical&hide_border=true&background=0D1117&ring=8E2DE2&fire=FF006B" alt="GitHub Streak Stats" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=imteajsajid12&theme=radical&no-frame=true&margin-w=10&column=6" />
+<!-- Trophy Stats -->
+<a href="https://github.com/ryo-ma/github-profile-trophy" title="View trophy configurations">
+  <img src="https://github-profile-trophy.vercel.app/?username=imteajsajid12&theme=radical&no-frame=true&row=1&column=7&margin-w=15" alt="GitHub Trophies" />
+</a>
+
+<br/>
+
+<!-- Top Languages Donut Chart -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imteajsajid12&hide=html&layout=donut&theme=radical&bg_color=0D1117&title_color=8E2DE2&text_color=c9d1d9&cache_seconds=86400" height="180" alt="Language Distribution" />
+
+<sub>📝 Stats powered by <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> | <a href="https://github.com/DenverCoder1/github-readme-streak-stats">streak-stats</a></sub>
 
 </div>
 
