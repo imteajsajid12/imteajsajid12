@@ -1,126 +1,163 @@
-<div id="top"></div>
+🎯 Portfolio-Grade README v3 — Full CV Integrated
 
-<div align="center">
+I've transformed your CV into a portfolio experience: career timeline, 5 project showcase cards with tech chips, certifications, education, languages, and updated contact links (real LinkedIn + WhatsApp). Everything from v2 (animations, arcade, stats) is preserved.
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34px" alt="waving hand"/>
+📄 README.md (complete — replace your file)
 
-<!-- ⌨️ TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4500&pause=900&color=58A6FF&center=true&vCenter=true&width=560&height=80&lines=Hi+%F0%9F%91%8B+I'm+Imteaj+Hossain;Full-Stack+Developer+%E2%80%A2+Bangladesh;Laravel+%2B+Vue.js+Enthusiast;Code+%E2%80%A2+Coffee+%E2%80%A2+Repeat" alt="typing animation"/>
-</a>
+markdown
 
-<p><em>Turning ☕ coffee into clean, scalable full-stack experiences.</em></p>
+  
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.svg" alt="divider" width="100%"/>
+  
+  
+  
+  
+  
 
-</div>
+  About •
+  Experience •
+  Projects •
+  Stats •
+  Stack •
+  Certs •
+  Arcade •
+  Connect
 
-<!-- ================= ABOUT ================= -->
-## 🧑‍💻 About Me
+🧑‍💻 About Me
 
-<table>
-<tr>
-<td width="50%">
+Motivated web developer with 2+ years of experience in frontend & full-stack development. Skilled in Laravel, Vue.js, React.js and responsive design — with a proven track record of building scalable web apps, user-friendly dashboards, optimizing SQL queries, and integrating AI features that boost platform performance.
 
-- 🔭 Currently building products at **Fashol.com Ltd.**
-- 💬 Ask me about **PHP · Laravel · REST APIs · Vue**
-- 📫 Reach me: **imteajsajid1@gmail.com**
+  
+  
+  
+  
 
-</td>
-<td width="50%">
+💪 Strengths: Problem Solving & Debugging • AI & Automation Integration • Collaboration
 
-- 🌱 Currently mastering **Vue.js** & **Laravel**
-- 🧩 All projects available on my GitHub
-- ⚡ Fun fact: *I love learning techniques to play with programming languages.*
+💼 Experience
 
-</td>
-</tr>
-</table>
+🏢 Luminous Labs BD — Jr. Web Developer
+📍 Mirpur DOHS, Dhaka • 🗓️ 10/2024 – Present
 
-<!-- ================= STATS DASHBOARD ================= -->
-## 📊 Stats Dashboard
+Developing & maintaining Laravel + Vue.js applications, dashboards & analytics systems
+Optimizing SQL queries for measurable performance gains
+Crafting responsive, aesthetic UIs with modern HTML/CSS
 
-<div align="center">
+🏢 Classic Software Technology — Jr. Web Developer
+📍 Jatrabari, Dhaka • 🗓️ 01/2023 – 10/2024
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=imteajsajid12&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile" alt="github stats"/>
-<img height="170" src="https://streak-stats.demolab.com/?user=imteajsajid12&theme=tokyonight&hide_border=true&border_radius=8" alt="streak stats"/>
+Built websites with HTML, CSS, JavaScript, PHP; backend logic with MySQL
+Provided debugging & long-term maintenance support
 
-<br/>
+🏢 Foshol.com — Laravel Developer (Intern)
+📍 Green Road, Dhaka • 🗓️ 06/2020 – 10/2023
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imteajsajid12&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages"/>
+Contributed to an agri e-commerce platform; built Laravel backend modules
+Collaborated in an Agile team using GitHub workflows; improved team workflows
 
-</div>
+🚀 Featured Projects
 
-<!-- 📈 LIVE ACTIVITY GRAPH -->
-![](https://github-readme-activity-graph.vercel.app/graph?username=imteajsajid12&theme=tokyo-night&hide_border=true&radius=8)
+🎙️ VoiceERP — Voice-based CRM
+Advanced voice calling + AI integration; automated voice broadcasting & order tracking
+Real-time communication via WebRTC, Socket.io, WebSocket
+Interactive dashboards (ApexCharts, React Charts) — PWA-ready with Vite
 
-<!-- ================= TECH STACK ================= -->
-## 🛠️ Tech Stack
+  
+  
+  
+  
+  
 
-<div align="center">
+🌾 AgroVue — Agricultural Management Platform
+Role-based dashboards for farmers, NGOs, banks & government; GPS mapping + satellite analysis (NDVI, EVI, SAVI)
+AI multilingual chatbot (5+ languages); 93+ REST APIs with Redis caching
+Integrated OneSoil, ESA Copernicus, NASA Landsat & MODIS data
 
-**🎨 Frontend**
+  
+  
+  
+  
+  
 
-<img src="https://skillicons.dev/icons?i=vue,js,html,css,bootstrap" alt="frontend"/>
+🤖 AI Avatar — AI Content Automation SaaS
+AI-driven workflow automation, subscription management & content generation
+Integrated Gemini for image/video generation; automated content pipelines
+Built with Node.js + PostgreSQL
 
-**⚙️ Backend**
+  
+  
+  
 
-<img src="https://skillicons.dev/icons?i=php,laravel,node,java,python,mysql,firebase" alt="backend"/>
+🛍️ Beige Web v2 — Dropshipping E-commerce
+Product catalog, order management, inventory, cart & auth + admin dashboards
+Responsive, scalable UI with React + Redux
 
-**🧰 Tools & Platforms**
+  
+  
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux" alt="tools"/>
+🏪 Albaqee — Multi-Vendor Marketplace
+Multi-vendor + dropshipping workflows; dynamic pricing, variants, affiliate program & VAT system
+Payment gateways, shipping modules, digital products; commission tracking & analytics
 
-</div>
+  
+  
+  
 
-<!-- ================= FEATURED PROJECTS ================= -->
-## 📌 Featured Projects
+📦 Open Source
 
-<div align="center">
+📊 Stats Dashboard
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=imteajsajid12&repo=ecommerce&theme=tokyonight&hide_border=true" alt="ecommerce"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=imteajsajid12&repo=laravel-broadcasting&theme=tokyonight&hide_border=true" alt="laravel-broadcasting"/>
+🛠️ Tech Stack
 
-</div>
+🎨 Frontend — 
 
-<!-- ================= SNAKE GAME ================= -->
-## 🐍 The Snake Game
+⚙️ Backend — 
 
-<p align="center"><em>A snake that plays itself — eating my contributions 24/7 😄</em></p>
+🗄️ Databases — 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/imteajsajid12/imteajsajid12/output/github-contribution-grid-snake-dark.svg" alt="snake game"/>
-</p>
+🧰 Tools — 
 
-<!-- ================= TROPHIES ================= -->
-## 🏆 Trophies
+🎜 Certifications & Education
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=imteajsajid12&theme=onedark&no-frame=true&row=1&column=7&margin-w=8" alt="trophies"/>
-</p>
+  
+  
+  
 
-<!-- ================= FUN ================= -->
-## ⚡ A Little Fun
+🎓 Education
+B.Sc — Southeast University, Dhaka (11/2024 – Present)
+Diploma — Institute of Computer Science & Technology (ICST), Feni (2017 – 2022)
 
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="dev joke"/>
-</div>
+🌐 Languages —  
 
-<!-- ================= CONNECT ================= -->
-## 🌐 Connect With Me
+🎮 The Arcade
 
-<p align="center">
-  <a href="mailto:imteajsajid1@gmail.com"><img src="https://img.shields.io/badge/Gmail-imteajsajid1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
-  <a href="https://facebook.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"/></a>
-  <a href="https://linkedin.com/in/YOUR_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-  <a href="https://x.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="x"/></a>
-</p>
+🐍 Snake Game
 
-<!-- ================= FOOTER ================= -->
-<div align="center">
+  
 
-<img src="https://komarev.com/ghpvc/?username=imteajsajid12&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="views"/>
+♟️ Chess — Challenge Me!
+Visitors can challenge you via Issues once the optional chess bot is set up.
 
-<p>Made with ❤️ in Bangladesh • <a href="#top">↑ Back to top</a></p>
+⚡ Fun Zone
 
-</div>
+  
+  
+  
+
+🌐 Connect With Me
+
+  
+  
+  
+  
+
+Made with ❤️ in Dhaka, Bangladesh • ↑ Back to top
+
+✅ Notes
+
+Workflows unchanged — keep snake.yml (and chess setup if you added it) from v2.
+All data is now real from your CV: no placeholders left except optional widgets.
+Pro tip: upload the two AI images to an assets/ folder in your repo and swap URLs to assets/hero.png / assets/mascot.png for permanent hosting.
+Want a 📄 Download CV button? Add your PDF to the repo and insert: Download CV in the Connect section.
+
+Your profile is now a complete interactive portfolio: CV + projects + live stats + games + animations. 🎉
