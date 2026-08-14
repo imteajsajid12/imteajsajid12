@@ -19,113 +19,27 @@
 
 ## 🧑‍💻 About Me
 
-<div align="center">
-
-<!-- Profile Card -->
-<table>
-<tr>
-<td width="50%">
-
-### 👨‍💻 Who I Am
-
-I'm **Imteaj Hossain**, a passionate **Full-Stack Web Developer** based in **Dhaka, Bangladesh**. 
-
-With **2+ years** of hands-on experience, I transform complex business requirements into scalable, elegant solutions. I specialize in building **high-performance applications**, **intuitive dashboards**, and **AI-enhanced platforms** with a keen focus on clean architecture and user experience.
-
-**Currently:** Building data-driven dashboards & SaaS platforms at **Luminous Labs BD** 🚀
-
-</td>
-<td width="50%">
-
-<img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/graphs/demo.svg" width="100%" alt="Activity Graph" />
-
-</td>
-</tr>
-</table>
-
----
-
-### 📊 Quick Stats
-
-<table>
-<tr>
-<td align="center">
-
-**📍 Location**<br/>
-🇧🇩 Dhaka, Bangladesh
-
-</td>
-<td align="center">
-
-**⏱️ Experience**<br/>
-2+ years in Web Dev
-
-</td>
-<td align="center">
-
-**💼 Current Role**<br/>
-Jr. Web Developer
-
-</td>
-<td align="center">
-
-**🎓 Focus**<br/>
-Full-Stack Dev
-
-</td>
-</tr>
-</table>
-
----
-
-### 🎯 What I Do
-
-| Icon | Expertise | Details |
-|:----:|-----------|---------|
-| 🔨 | **Backend Development** | Laravel, PHP, MySQL, REST APIs |
-| 🎨 | **Frontend Development** | Vue.js, React.js, JavaScript, Responsive Design |
-| ⚡ | **Performance** | SQL Optimization, Caching, DB Tuning |
-| 🚀 | **Innovation** | AI Integration, SaaS Architecture, Real-time Systems |
-| 🔗 | **Full-Stack** | End-to-end application development & deployment |
-
----
-
-### 💡 My Philosophy
-
-```
-Code isn't just about functionality—it's about crafting experiences.
-Every line I write is optimized for performance, scalability, and maintainability.
-I turn complex problems into elegant solutions. ✨
+```yaml
+name: "Imteaj Hossain"
+role: "Junior Web Developer"
+location: "Dhaka, Bangladesh"
+experience: "2+ years"
+focus: ["Laravel", "Vue.js", "React.js", "Full-Stack Development"]
+currently_working_on: "Scalable dashboards & AI-integrated SaaS platforms"
+fun_fact: "I turn SQL bottlenecks into lightning bolts ⚡"
 ```
 
-> **Fun Fact:** I turn SQL bottlenecks into lightning bolts ⚡ & optimize databases while sipping coffee ☕
+<img align="right" width="380" src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/graphs/demo.svg" />
 
----
+Motivated **web developer** with 2+ years of hands-on experience across frontend and full-stack development. I specialize in building **scalable web applications**, **user-friendly dashboards**, and **AI-enhanced platforms** — with a sharp eye for performance and clean architecture.
 
-### 🎯 Current Focuses
+- 🔭 Currently building dashboards & analytics systems at **Luminous Labs BD**
+- 🌱 Deepening my skills in **AI integration** & **SaaS platform architecture**
+- ⚡ Passionate about optimizing SQL queries & backend performance
+- 🤝 Strong collaborator — Agile, GitHub workflows, code reviews
+- 📫 Reach me: **imteajsajid1@gmail.com**
 
-```diff
-+ Building scalable dashboards & analytics platforms
-+ Deepening expertise in AI integration & LLMs
-+ Mastering SaaS architecture patterns
-+ Contributing to open-source projects
-+ Continuous learning & skill development
-```
-
----
-
-### 🤝 Let's Collaborate
-
-<div>
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:imteajsajid1@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/imteajsajid12)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/8801835488471)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8E2DE2?style=flat-square&logo=About.me&logoColor=white)](https://github.com/imteajsajid12)
-
-</div>
-
-</div>
+<br clear="right"/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
@@ -160,7 +74,17 @@ I turn complex problems into elegant solutions. ✨
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 💼 Experience Timeline
+## � GitHub Activity Graph
+
+<div align="center">
+
+[![Imteaj's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=imteajsajid12&theme=radical&bg_color=0D1117&color=8E2DE2&line=4A00E0&point=FF006B&area=true&hide_border=true)](https://github.com/imteajsajid12)
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## �💼 Experience Timeline
 
 ```text
 2024 ──────────────────────────────────────────────▶ Present
