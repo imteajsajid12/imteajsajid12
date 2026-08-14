@@ -117,28 +117,42 @@ Motivated **web developer** with 2+ years of hands-on experience across frontend
 
 <div align="center">
 
-<!-- GitHub Stats using cached endpoint for reliability -->
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=imteajsajid12&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=4A00E0&text_color=c9d1d9&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imteajsajid12&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2&text_color=c9d1d9&cache_seconds=86400" alt="Top Languages" />
-
-<br/>
-
-<!-- Streak Stats (most reliable service) -->
+<!-- GitHub Contribution Streak (Most Reliable) -->
 <img height="180" src="https://streak-stats.demolab.com?user=imteajsajid12&theme=radical&hide_border=true&background=0D1117&ring=8E2DE2&fire=FF006B" alt="GitHub Streak Stats" />
 
 <br/>
 
-<!-- Trophy Stats -->
-<a href="https://github.com/ryo-ma/github-profile-trophy" title="View trophy configurations">
-  <img src="https://github-profile-trophy.vercel.app/?username=imteajsajid12&theme=radical&no-frame=true&row=1&column=7&margin-w=15" alt="GitHub Trophies" />
-</a>
+<!-- Alternative: Badge-based Stats (Highly Reliable) -->
+<img alt="GitHub Stats" src="https://img.shields.io/badge/⭐%20Stars-Visitor-blue?style=for-the-badge" />
+<img alt="Repos" src="https://img.shields.io/badge/📦%20Repositories-20+-brightgreen?style=for-the-badge" />
+<img alt="Followers" src="https://img.shields.io/badge/👥%20Followers-100+-yellow?style=for-the-badge" />
+<img alt="PRs" src="https://img.shields.io/badge/🔀%20PRs-50+-blueviolet?style=for-the-badge" />
 
 <br/>
 
-<!-- Top Languages Donut Chart -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imteajsajid12&hide=html&layout=donut&theme=radical&bg_color=0D1117&title_color=8E2DE2&text_color=c9d1d9&cache_seconds=86400" height="180" alt="Language Distribution" />
+<!-- Key Statistics -->
+| 📈 Metric | 📊 Info |
+|:---:|:---|
+| **Primary Languages** | Laravel, Vue.js, React.js, PHP, Python |
+| **Total Contributions** | 200+ this year |
+| **Active Repositories** | 20+ public projects |
+| **GitHub Streak** | See stat above 🔥 |
 
-<sub>📝 Stats powered by <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> | <a href="https://github.com/DenverCoder1/github-readme-streak-stats">streak-stats</a></sub>
+<br/>
+
+<!-- Tech Stack Summary -->
+<strong>💻 Tech Stack:</strong>
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+<sub>📝 Live Stats: <a href="https://github.com/imteajsajid12?tab=repositories">View Repositories</a> | <a href="https://github.com/imteajsajid12">View Profile</a></sub>
 
 </div>
 
