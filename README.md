@@ -29,7 +29,7 @@ currently_working_on: "Scalable dashboards & AI-integrated SaaS platforms"
 fun_fact: "I turn SQL bottlenecks into lightning bolts ⚡"
 ```
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/graphs/demo.svg" />
+<img align="right" width="380" src="https://github-readme-activity-graph.vercel.app/graph?username=imteajsajid12&theme=radical&bg_color=0D1117&color=8E2DE2&line=4A00E0&point=FF006B&area=true&hide_border=true" alt="Activity Graph" />
 
 Motivated **web developer** with 2+ years of hands-on experience across frontend and full-stack development. I specialize in building **scalable web applications**, **user-friendly dashboards**, and **AI-enhanced platforms** — with a sharp eye for performance and clean architecture.
 
